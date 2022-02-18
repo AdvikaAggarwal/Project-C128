@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 22px;
+    width: 100%;
+    background-color:#ffc2cb;
+    color: rgb(137, 129, 255);
+    font-family:cursive;
+   margin: 0%;
+    background-size: cover;
+}
+
+.note
+{
+    font-size: 20px;
+    color:rgb(253, 255, 133);
+    font-family:cursive;
+}
+.remember
+{
+    font-size: 20px;
+    color: rgb(234, 0, 255);
+    font-family:cursive;
+}
+.name{
+    font-family:cursive;
+    font-size: 20px;
+    background-color:rgb(255, 124, 115) ;
+    color: rgb(255, 255, 255);
+    width: 250px;
+    height: 35px;
+    border-radius: 7px;
+}
+canvas
+{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
